@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes {
+    font-weight: 800;
+    list-style-type: square;
+}
+
+body {
+    background-color: gold;
+}
